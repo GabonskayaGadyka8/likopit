@@ -2,7 +2,7 @@
 
 ## Работа с ``GIT``
 
-<p align="center"><img srt="https://static.etvnet.com/shared/persons/person/000/019/416/stethem.jpg" width="400"></p>
+<p align="center"><img src="https://static.etvnet.com/shared/persons/person/000/019/416/stethem.jpg" width="400"></p>
 
 <p><a href="https://www.youtube.com/@Pasha_PeL666">ССЫЛКА</a></p>
 
